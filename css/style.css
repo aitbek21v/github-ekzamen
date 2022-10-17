@@ -17,3 +17,9 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+#hero{
+    background: url("../img/bg1.jpg");
+}
+.hero div button{
+    padding: 10px 30px;
+}
