@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul li{
+    list-style: none;
+}
+body{
+    font-family: sans-serif;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
